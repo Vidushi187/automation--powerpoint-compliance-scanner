@@ -11,4 +11,4 @@ An automated pre-issuance quality assurance scanner embedded within Microsoft Po
 
 ## Documentation
 * **Business Requirements Document (BRD):** [docs/project.md](docs/project.md)
-* **Technical Implementation Plan:** [docs/implementation.md](docs/implementation.md)
+
